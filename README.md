@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HusseinTheCoder&label=Profile%20Views&color=0e75b6&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/HusseinTheCoder?style=flat-square&color=38bdf8)
-![Meta Certified](https://img.shields.io/badge/Meta-Certified-0866FF?style=flat-square&logo=meta&logoColor=white)
+![Meta Courses](https://img.shields.io/badge/Meta-11_Certificates-0866FF?style=flat-square&logo=meta&logoColor=white)
 
 </div>
 
@@ -61,11 +61,19 @@
 
 ## 🏆 Certifications
 
-| Certificate | Issuer | Platform |
+| Certificate | Issuer | Completed |
 |---|---|---|
-| Meta Front-End Developer Professional Certificate | Meta | Coursera |
-| Meta Back-End Developer Professional Certificate | Meta | Coursera |
-| Machine Learning Certificate | _add name_ | Coursera |
+| Front-End Developer Capstone | Meta | Oct 2026 |
+| Principles of UX/UI Design | Meta | Oct 2026 |
+| Advanced React | Meta | Sep 2026 |
+| React Basics | Meta | Jun 2026 |
+| HTML and CSS in Depth | Meta | 2026 |
+| Version Control | Meta | 2026 |
+| Introduction to Front-End Development | Meta | 2026 |
+| Programming with JavaScript | Meta | Sep 2025 |
+| Introduction to Back-End Development | Meta | Sep 2025 |
+| AI For Everyone | DeepLearning.AI | 2026 |
+| Build a Full Website using WordPress | Coursera Project | Feb 2024 |
 
 ---
 
